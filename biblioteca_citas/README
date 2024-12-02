@@ -19,3 +19,5 @@ comandos para clonar el proyecto
 
 6.) Una vez terminado tu trabajo debes ejecutar los siguientes comandos "git add . " despues " git commit -m "mensaje_de_commit" "
 	para finalmente colocar el comando " git push origin nombre_de_tu_rama "
+
+o waos
