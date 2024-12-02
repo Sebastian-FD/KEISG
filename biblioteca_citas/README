@@ -1,0 +1,21 @@
+comandos para clonar el proyecto 
+
+1.) Se debe de crear una carpeta en el escritorio para posteriormente abrir dicha carpeta en visual studio y colocarte en la terminal en la carpeta
+	y introducior el siguiente comando "clone direccion_nombre_proyecto_defecto"
+
+
+2.) Posteriormente debes de navegar por las ramas (inicialmente se coloca en la rama main)
+
+	para crear una nueva rama se coloca el siguiente comando "git checkout -b nombre_de_la_rama"
+
+
+3.) Para navegar por las ramas se coloca el comando "git checkout nombre_de_rama_a_ocupar" y posteriormente se coloca 
+	el comando "git push origin nombre_de_rama " para que el resto pueda visualizarla para posteriormente comenzar 
+	a trabajar.
+
+4.) Para borrar una rama se coloca "git branch -d nombre_de_la_rama"
+
+5.) Para actualizar tu repositorio local al commit más nuevo, ejecuta " git pull "
+
+6.) Una vez terminado tu trabajo debes ejecutar los siguientes comandos "git add . " despues " git commit -m "mensaje_de_commit" "
+	para finalmente colocar el comando " git push origin nombre_de_tu_rama "
