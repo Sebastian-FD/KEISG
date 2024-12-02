@@ -5,7 +5,7 @@ def citas_ver(request):
     "hola seba como estas"
 
 def citas_agregar(request):
-    pass
+    "hola nacho"
 
 def citas_actualizar(request):
     pass
